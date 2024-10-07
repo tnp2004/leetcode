@@ -24,9 +24,3 @@ public:
         return false;
     }
 };
-
-int main() {
-    Solution s;
-    bool r = s.isPalindrome(1234567899);
-    cout << "anwser: " << r;
-}
