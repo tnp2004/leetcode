@@ -23,10 +23,3 @@ public:
         return last;
     }
 };
-
-int main() {
-    Solution s;
-    cout << s.lengthOfLastWord("   fly me   to   the moon  ");
-
-    return 0;
-}
